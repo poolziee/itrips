@@ -3,7 +3,7 @@
 ## Project Technical Description
 
 As the project is already described at ProjectDescription.pdf, here is only a technical overview of it.
-The application serves 1 main user types:
+The application serves 2 main user types:
 - Booker
 - Hotel Manager
 
